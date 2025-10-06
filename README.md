@@ -51,13 +51,11 @@ Cada héroe y enemigo posee estadísticas (vida, ataque, defensa, velocidad y ma
 ## 🕹️ Ejemplo de ejecución
 === MENÚ PRINCIPAL ===
 
-Iniciar Combate
+1. Iniciar Combate
+2. Mostrar Héroes
+3. Mostrar Enemigos
+0. Salir
 
-Mostrar Héroes
-
-Mostrar Enemigos
-
-Salir
 Elige una opción: 1
 
 ¡Comienza la batalla! ️
