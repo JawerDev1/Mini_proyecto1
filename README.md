@@ -69,5 +69,7 @@ HP: 120 | MP: 50
 3. Usar habilidad
 Elige: 1
 Andres ataca a Slime Azul causando 25 de daño.
- Slime Azul ha sido derrotado.
- ¡Victoria! Los héroes ganaron.
+
+Slime Azul ha sido derrotado.
+
+¡Victoria! Los héroes ganaron.
