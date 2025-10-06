@@ -60,8 +60,9 @@ Mostrar Enemigos
 Salir
 Elige una opción: 1
 
- ¡Comienza la batalla! ️
- Turno de Andres
+¡Comienza la batalla! ️
+
+Turno de Andres
 HP: 120 | MP: 50
 
 1. Atacar
