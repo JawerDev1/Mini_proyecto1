@@ -49,4 +49,25 @@ Cada héroe y enemigo posee estadísticas (vida, ataque, defensa, velocidad y ma
 ---
 
 ## 🕹️ Ejemplo de ejecución
+=== MENÚ PRINCIPAL ===
 
+Iniciar Combate
+
+Mostrar Héroes
+
+Mostrar Enemigos
+
+Salir
+Elige una opción: 1
+
+ ¡Comienza la batalla! ️
+ Turno de Andres
+HP: 120 | MP: 50
+
+1. Atacar
+2. Defender
+3. Usar habilidad
+Elige: 1
+Andres ataca a Slime Azul causando 25 de daño.
+ Slime Azul ha sido derrotado.
+ ¡Victoria! Los héroes ganaron.
