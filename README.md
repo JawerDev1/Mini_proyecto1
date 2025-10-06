@@ -1,8 +1,8 @@
 # Dragon Quest - Mini Proyecto 1
 
 ### Integrantes:
-- **Kevin** – Implementación de clases base (`Personaje`, `Heroe`, `Enemigo`, `Habilidad`, etc.)
-- **Jhon** – Implementación de la lógica del combate (`Combate.java`, `DragonQuest.java`)
+- **Kevin Andres Rosero Romo ->  2459554** – Implementación de clases base (`Personaje`, `Heroe`, `Enemigo`, `Habilidad`, etc.)
+- **Jhon Jawer Cuero Gomez -> 2459544** – Implementación de la lógica del combate (`Combate.java`, `DragonQuest.java`)
 
 ---
 
